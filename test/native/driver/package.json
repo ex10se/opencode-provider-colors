@@ -1,0 +1,1 @@
+{"name":"provider-colors-native-driver","private":true,"type":"module","exports":{"./tui":"./tui.ts"}}

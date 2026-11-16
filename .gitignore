@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+dist/
+*.tgz
+coverage/
+tmp/
+test/generated/
+*.log
+.env*
+!.env.example
